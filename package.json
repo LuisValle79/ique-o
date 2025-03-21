@@ -9,6 +9,12 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://LuisValle79.github.io/ique-o/",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+
   "dependencies": {
     "@angular/common": "^19.2.3",
     "@angular/core": "^19.2.3",
