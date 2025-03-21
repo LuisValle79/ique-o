@@ -145,10 +145,10 @@ function App() {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <img src="https://images.unsplash.com/photo-1589923188900-85dae523342b" alt="Tractor en campo" className="rounded-lg shadow-lg" />
-                <img src="https://images.unsplash.com/photo-1591638246754-77e0776c1d3d" alt="Implemento agrícola" className="rounded-lg shadow-lg" />
+                <img src="https://th.bing.com/th/id/OIP.pIf1cCLg8Mq7Y9UvKPQeBwHaE8?rs=1&pid=ImgDetMain" alt="Implemento agrícola" className="rounded-lg shadow-lg" />
               </div>
               <div className="space-y-4 mt-8">
-                <img src="https://images.unsplash.com/photo-1595876171225-61c4088c8058" alt="Trabajo en campo" className="rounded-lg shadow-lg" />
+                <img src="https://th.bing.com/th/id/OIP.mzkswmVHnONp3nRPx-PFBAHaE6?rs=1&pid=ImgDetMain" alt="Trabajo en campo" className="rounded-lg shadow-lg" />
                 <img src="https://images.unsplash.com/photo-1625246333195-78d9c38ad449" alt="Maquinaria agrícola" className="rounded-lg shadow-lg" />
               </div>
             </div>
