@@ -4,17 +4,17 @@ import { MessageCircle } from 'lucide-react';
 const advisors = [
   {
     id: 1,
-    name: 'Karla Albites',
+    name: 'Karla Albites la doña ',
     position: 'Asesora Técnica Senior',
     image: 'https://scontent.flim2-5.fna.fbcdn.net/v/t39.30808-6/464010589_8665536853507713_780792639015757338_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9eae26&_nc_eui2=AeGua0NXKA0XK2AJqsL6XqEUpRpKAHMPhD2lGkoAcw-EPZrHf44C8sq85uFFDT5qIPWintedtl_8Q5pqSQOWHEN2&_nc_ohc=A2e7AeRry_8Q7kNvgEk9-4J&_nc_oc=AdnCrfPsI49ECA_cLC85Ltrippu05CMr9BHfgXFXKy1CxSXHZUFZH8wiTdBMv5Zkfb797uFbU5P8QA7AMdFKbL2e&_nc_zt=23&_nc_ht=scontent.flim2-5.fna&_nc_gid=-MmRgZkYR3USb6rRNew-3g&oh=00_AYGJj90MPfa_CLWIpkckzicesyYgm_gjU_YB0PIibjHCmg&oe=67E0F0AC',
-    whatsapp: '985928062',
+    whatsapp: '986202012',
     specialties: ['Maquinaria Industrial', 'Mantenimiento Preventivo', 'Diseño Técnico']
   },
   {
     id: 2,
-    name: 'Verónica Mendoza',
+    name: 'luis valle - gerente general ',
     position: 'Asesora Comercial',
-    image: 'https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
+    image: 'https://scontent.flim2-3.fna.fbcdn.net/v/t39.30808-6/481186828_1679767832616540_7617886849727677736_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEJFY5BN2cNHPUaZqgvBZG3n7Cz8Nsq_T2fsLPw2yr9PXH0bEh4BjXgPccKlEUQYyduXHBTB8wUc6W9rTuOlbdX&_nc_ohc=TjkmxR-ylL4Q7kNvgFdXt6R&_nc_oc=AdnWusRlQmXozaw79etUzbX450iP0DJ5u1TaiUJHS0GAYzZavkfpcpMOO93Wx7vYarG7wvze_Of5nAi3zwm3w6sG&_nc_zt=23&_nc_ht=scontent.flim2-3.fna&_nc_gid=CP2iBGZu3mNq5BY0VjDqvg&oh=00_AYFgoFWab52lGFpNAe5Hu3Qr08SETUiwqrWgH3cwX4ngTA&oe=67E3603B',
     whatsapp: '985928062',
     specialties: ['Ventas Corporativas', 'Proyectos Especiales', 'Servicio al Cliente']
   }
