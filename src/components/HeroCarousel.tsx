@@ -95,6 +95,13 @@ const HeroCarousel: React.FC = () => {
                 Ver Productos
                 <ChevronRight className="ml-2 h-5 w-5" />
               </a>
+              <a 
+                href="https://www.implementosagricolasfsi.com/images/catalogo.pdf"
+                className="bg-machinery-200 text-tractor-400 px-8 py-3 rounded-lg font-semibold hover:bg-machinery-300 transition duration-300 inline-flex items-center"
+              >
+                Ver Catálogo de Productos
+                <ChevronRight className="ml-2 h-5 w-5" />
+              </a>
             </div>
           </div>
         </div>
