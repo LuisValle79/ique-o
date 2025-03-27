@@ -6,9 +6,9 @@ import { FaWhatsapp, FaFacebook, FaInstagram } from 'react-icons/fa';
 const products = [
   {
     id: 1,
-    name: 'Cultivadora de brazos rigidos',
-    description: 'Una cultivadora de brazos rígidos es una herramienta agrícola usada para remover el suelo, controlar malezas y mejorar la aireación. Sus brazos fijos y resistentes permiten trabajar en terrenos compactados, siendo ideal para la preparación del suelo antes de la siembra. Puede ser arrastrada o montada en un tractor, ajustando la profundidad de trabajo según el cultivo. Su uso mejora la infiltración del agua y el desarrollo radicular. Es común en cultivos extensivos como maíz, trigo y soja.',
-    image: 'https://www.implementosagricolasfsi.com/images/Catalogo/cultivadora_brazosrigidos.jpg#joomlaImage://local-images/Catalogo/cultivadora_brazosrigidos.jpg?width=768&height=556',
+    name: 'Arados de Disco',
+    description: 'Arados de disco resistentes para trabajo pesado, ideales para preparación de suelos. Fabricados con materiales de alta calidad y diseñados para una larga vida útil. Perfectos para todo tipo de terrenos y condiciones de trabajo.',
+    image: 'https://www.deere.com/assets/images/region-3/products/tillage-equipment/disks/arado_3745_estudio_large_1b5ab86460ef31a698e8e93006198b3d250b477b.jpg',
     price: 12500,
     specifications: [
       { label: 'Material', value: 'Acero reforzado' },
