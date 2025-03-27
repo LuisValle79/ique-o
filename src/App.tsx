@@ -122,9 +122,15 @@ function App() {
             <div>
               <h3 className="text-2xl font-bold mb-4 text-tractor-300">Nuestra Historia</h3>
               <p className="text-gray-600 mb-6">
-                FSI Implementos Agrícolas nace de la necesidad de brindar soluciones de calidad al sector agrícola. 
-                Con más de dos décadas de experiencia, nos hemos convertido en líderes en la fabricación y 
-                distribución de implementos agrícolas en la región.
+                FSI Implementos Agrícolas es una empresa peruana que nace como respuesta a la necesidad de 
+todos los agricultores y empresas agroindustriales del país en 
+hacer más fácil la tarea del agricultor y realizarlo en menos 
+tiempo. 
+Más de 30 años de experiencia fabricando maquinaria e 
+implementos agrícolas para el campo peruano a los mejores 
+precios. 
+F.S.I SAC, desarrolla, innova, fabrica implementos y maquinaria 
+agrícola para tractor.
               </p>
               <h3 className="text-2xl font-bold mb-4 text-tractor-300">Nuestra Misión</h3>
               <p className="text-gray-600 mb-6">
@@ -271,15 +277,15 @@ function App() {
             <div className="space-y-6">
               <div className="flex items-center p-4 bg-white rounded-lg shadow-sm">
                 <Phone className="h-6 w-6 text-tractor-200 mr-3" />
-                <span>+51 985 928 062</span>
+                <span>+51 958 840 599</span>
               </div>
               <div className="flex items-center p-4 bg-white rounded-lg shadow-sm">
                 <Mail className="h-6 w-6 text-tractor-200 mr-3" />
-                <span>luisvalle231990@gmail.com</span>
+                <span>eliquenosac.lili@gmail.com</span>
               </div>
               <div className="flex items-center p-4 bg-white rounded-lg shadow-sm">
                 <MapPin className="h-6 w-6 text-tractor-200 mr-3" />
-                <span>Av. Industrial 123, Ica, Perú</span>
+                <span>Jr. Augusto B. Leguia n 523. Imperial cañete Lima Perú</span>
               </div>
               <Map />
             </div>
@@ -314,7 +320,8 @@ function App() {
             <div>
               <h3 className="text-xl font-bold mb-4">Horario de Atención</h3>
               <p className="text-tractor-50">
-                Lunes a Viernes: 8:00 AM - 6:00 PM<br />
+                Lunes a Viernes: 8:00 AM - 01:00 PM<br />
+                                 03:00 PM - 06:00 PM<br />
                 Sábados: 8:00 AM - 1:00 PM
               </p>
             </div>
