@@ -4,19 +4,19 @@ import { MessageCircle } from 'lucide-react';
 const advisors = [
   {
     id: 1,
-    name: 'Karla Albites la doña ',
-    position: 'Asesora Técnica - secretaria',
-    image: 'https://scontent.flim2-5.fna.fbcdn.net/v/t39.30808-6/464010589_8665536853507713_780792639015757338_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9eae26&_nc_eui2=AeGua0NXKA0XK2AJqsL6XqEUpRpKAHMPhD2lGkoAcw-EPZrHf44C8sq85uFFDT5qIPWintedtl_8Q5pqSQOWHEN2&_nc_ohc=A2e7AeRry_8Q7kNvgEk9-4J&_nc_oc=AdnCrfPsI49ECA_cLC85Ltrippu05CMr9BHfgXFXKy1CxSXHZUFZH8wiTdBMv5Zkfb797uFbU5P8QA7AMdFKbL2e&_nc_zt=23&_nc_ht=scontent.flim2-5.fna&_nc_gid=-MmRgZkYR3USb6rRNew-3g&oh=00_AYGJj90MPfa_CLWIpkckzicesyYgm_gjU_YB0PIibjHCmg&oe=67E0F0AC',
-    whatsapp: '986202012',
-    specialties: ['Maquinaria Industrial', 'Mantenimiento Preventivo', 'ver rosa de guadalupe','dormir toda la tarde']
+    name: 'Karla Albites',
+    position: 'Asistente Administrativo , contable y ventas',
+    image: 'https://scontent.flim2-2.fna.fbcdn.net/v/t1.6435-9/36504850_1746462018769059_3838715436996755456_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cf85f3&_nc_eui2=AeGkinGIeflGVeZir2sXUewf5zwtIDi3SQrnPC0gOLdJChkZUbQCrP-z6TSxpAFdrHtMba8xFsd6GFckgCWytFXh&_nc_ohc=PHlnWAg7tFQQ7kNvgEc6u2c&_nc_oc=AdkiO54aIS2mSMLNvSLig2q6mum6zADs0_NAbmBmNI2Iz5rRed7msKB7J0wUpVUqrwWTYADiXt6QpSYLBR6H6IRp&_nc_zt=23&_nc_ht=scontent.flim2-2.fna&_nc_gid=rsW1PbjTiG6UR_rLiRBrUg&oh=00_AYFdTHi6iIv2C1a44JJPbU9H119b-DvLUlrUrGMrtbByUw&oe=680C3440',
+    whatsapp: '958840599',
+    specialties: ['Ventas Corporativas', 'Asesoria de Productos Agricolas', 'Servicio al Cliente']
   },
   {
     id: 2,
-    name: 'luis valle - gerente general ',
-    position: 'Asesor Comercial todo un crack en ventas osea un lobo de lobos',
-    image: 'https://scontent.flim2-3.fna.fbcdn.net/v/t39.30808-6/481186828_1679767832616540_7617886849727677736_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEJFY5BN2cNHPUaZqgvBZG3n7Cz8Nsq_T2fsLPw2yr9PXH0bEh4BjXgPccKlEUQYyduXHBTB8wUc6W9rTuOlbdX&_nc_ohc=TjkmxR-ylL4Q7kNvgFdXt6R&_nc_oc=AdnWusRlQmXozaw79etUzbX450iP0DJ5u1TaiUJHS0GAYzZavkfpcpMOO93Wx7vYarG7wvze_Of5nAi3zwm3w6sG&_nc_zt=23&_nc_ht=scontent.flim2-3.fna&_nc_gid=CP2iBGZu3mNq5BY0VjDqvg&oh=00_AYFgoFWab52lGFpNAe5Hu3Qr08SETUiwqrWgH3cwX4ngTA&oe=67E3603B',
-    whatsapp: '985928062',
-    specialties: ['Ventas Corporativas', 'Proyectos Especiales', 'Servicio al Cliente']
+    name: 'Veronica Meneses',
+    position: 'Administradora',
+    image: 'https://scontent.flim2-5.fna.fbcdn.net/v/t1.6435-9/49612756_1975355469167145_3073386607408054272_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cf85f3&_nc_eui2=AeGHHPIWB9ZedhMYYygrVjHis_M2AeNgFWaz8zYB42AVZqe7PNfckhgG74z1ZXl5kB7mO_i4DMg1JRVvakQQLjLI&_nc_ohc=rqScLARprGUQ7kNvgFzEl_t&_nc_oc=Adl7tPpKlUCa0W7wxXuDIKRMTE5jFs9J2BMKwOJPqfL6XmC8TXuOBpQPHLg3k4yT_LGtC3RJ6ROp2nI0dJW42LGv&_nc_zt=23&_nc_ht=scontent.flim2-5.fna&_nc_gid=R6adXHbM15Tu-SZF-eGZkw&oh=00_AYFRkoXGppHcU_rSTLAL6K0oU9TeH_K7eiDmdvQ5xyk9Tg&oe=680C0BC8',
+    whatsapp: '963792905',
+    specialties: ['Maquinarias Agricolas', 'Proyectos Especiales', 'Servicio al Cliente']
   }
 ];
 
